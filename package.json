@@ -2,10 +2,10 @@
   "name": "stats-preview-card-component",
   "version": "1.0.0",
   "description": "Stats Preview Card Component Frontend Mentor Challenge",
-  "main": "index.js",
+  "main": "./public/index.js",
   "scripts": {
-    "sass:build": "sass styles.scss:styles.css",
-    "sass:watch": "sass --watch styles.scss:styles.css"
+    "sass:build": "sass ./public/styles.scss:./public/styles.css",
+    "sass:watch": "sass --watch ./public/styles.scss:./public/styles.css"
   },
   "keywords": [],
   "author": "",
